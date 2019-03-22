@@ -1,0 +1,129 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    background-color: #ffffff;
+}
+
+.home {
+    background: url(../Images/Desktop.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;    
+}
+
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+a{
+    text-decoration:none;
+}
+
+a:hover{
+    text-decoration:none;
+}
+
+.btn-primary {
+    background: #1a7527;
+}
+
+.btn:focus{
+        background: #c1f0c9;
+}
+
+.field-validation-error {
+    color: #e80c4d;
+    font-weight: bold;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+input.input-validation-error {
+    border: 1px solid #e80c4d;
+}
+
+input[type="checkbox"].input-validation-error {
+    border: 0 none;
+}
+
+.validation-summary-errors {
+    color: #e80c4d;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+.validation-summary-valid {
+    display: none;
+}
+
+textarea{
+    width:280px;
+    height:100px;
+}
+
+.multi-line{
+   white-space: pre-wrap;
+}
+
+.navbar-inverse{
+    background: #34495E;
+}
+
+.nav.navbar-nav li a {
+    color:white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;    
+}
+
+.nav.navbar-nav li a:hover {
+    color:#5D6D7E;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;    
+}
+
+.navbar-inverse .navbar-brand{       
+    color:white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;  
+}
+
+.navbar-inverse .navbar-brand:hover{
+    color:#5D6D7E;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;    
+}
+
+.navbar-inverse .navbar-toggle{
+    /*background:;*/
+}
+
+.navbar-inverse .navbar-toggle:hover{
+    background:#5D6D7E;       
+}
+
+.navbar-collapse{
+    float:right;
+}
+
+.app-link {
+    border: 1px solid black;
+    background: rgba(255,255,255,0.90);
+}
