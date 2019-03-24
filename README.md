@@ -1,6 +1,8 @@
 # Lynx Magnus
 
-MVC portfolio project.
+Portfolio project for John Watson (LynxMagnus)
+
+https://lynxmagnus.com/
 
 ## Status
 
@@ -8,7 +10,7 @@ MVC portfolio project.
 
 ## Prerequisites
 
-Visual Studio
+Visual Studio  
 .Net Framework
 
 ## License
