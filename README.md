@@ -3,7 +3,7 @@
 
 # Lynx Magnus
 
-Portfolio project for John Watson (LynxMagnus)
+Root hosting website
 
 https://lynxmagnus.com/
 
